@@ -278,7 +278,3 @@ export default function Dashboard() {
     </div>
   )
 }
-(false)} onSave={setManualBalance} />}
-    </div>
-  )
-}
